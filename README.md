@@ -1,0 +1,2 @@
+# houdini-delivery-template
+Houdiniで構成したツールやパイプラインの納品形式を検討するためのリポジトリ
