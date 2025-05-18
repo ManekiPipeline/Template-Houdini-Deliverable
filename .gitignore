@@ -1,0 +1,33 @@
+# Operating System Files
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.komodoproject
+# Add other editor/IDE specific files as needed
+
+# Python Generated Files
+__pycache__/
+*.pyc
+
+# Cache and Output Files
+*.bgeo
+*.bgeo.sc
+*.vdb
+*.sim
+*.part
+*.chan
+*.clip
+*.picnc
+
+# Output and Backup Directories
+render/
+comp/
+flipbook/
+sim/
+backup/
