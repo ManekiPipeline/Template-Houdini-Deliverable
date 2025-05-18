@@ -1,0 +1,13 @@
+{
+    "env": [
+        {
+            "[ツール名]": "[リポジトリの保存先]/[リポジトリ名]"
+        },
+        {
+            "var": "PYTHONPATH ",
+            "value": "$[ツール名]/scripts/python",
+            "method": "append"
+        }
+    ],
+    "hpath": "$[ツール名]"
+}
