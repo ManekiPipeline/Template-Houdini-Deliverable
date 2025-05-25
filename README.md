@@ -91,7 +91,9 @@ Houdini、Python、UnrealEngineなどで関連データを扱うために必要�
 
 このテンプレートに関するご質問、不具合の報告、または改善提案などがありましたら、以下の連絡先にご連絡ください。
 
-* プロジェクトメンテナー: [Maneki Pipeline/ FishBall](https://www.procedural.jp/)
+* プロジェクトメンテナー: 
+    - [Maneki Pipeline/ FishBall](https://www.procedural.jp/)
+    - [Yuzutarou/ Zenn](https://zenn.dev/yuzutarou)
 * お問い合わせ先: [Maneki Pipeline/ 連絡先](https://www.procedural.jp/articles/rsfyqf0k3hdc)
 
 ---
